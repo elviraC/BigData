@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+		<script src="graphApp.js"></script>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	<body onload="generateTable()">
+		<div id="graph" onload="">
+			<p style="display: inline;">Occurences input </p>
+			<input id="fileInputJson" type="file" style="display: inline;"/>
+			<p style="display: inline;">Totals input </p>
+			<input id="fileInputTotal" type="file" style="display: inline;"/>
+
+
+			<table class="pretty" id="tab" width="100%">
+				
+			</table>
+		</div>
+		<p id="content"></p>
+	</body>
+</html>
