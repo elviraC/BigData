@@ -1,0 +1,7 @@
+mapreduce/amicable/AmicableReducer.class
+mapreduce/keywords/KeywordReducer.class
+mapreduce/keywords/KeywordsMapper.class
+mapreduce/amicable/AmicableCombiner.class
+mapreduce/amicable/AmicableMapper.class
+mapreduce/amicable/AmicableJob.class
+mapreduce/keywords/KeywordPartitioner.class

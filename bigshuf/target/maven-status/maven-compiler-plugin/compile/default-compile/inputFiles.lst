@@ -1,0 +1,9 @@
+/home/mark/git/bdata/HadoopAssignment/src/mapreduce/keywords/KeywordsMapper.java
+/home/mark/git/bdata/HadoopAssignment/src/mapreduce/amicable/AmicableCombiner.java
+/home/mark/git/bdata/HadoopAssignment/src/mapreduce/keywords/KeywordJob.java
+/home/mark/git/bdata/HadoopAssignment/src/mapreduce/keywords/KeywordPartitioner.java
+/home/mark/git/bdata/HadoopAssignment/src/mapreduce/amicable/AmicableJob.java
+/home/mark/git/bdata/HadoopAssignment/src/mapreduce/amicable/AmicableMapper.java
+/home/mark/git/bdata/HadoopAssignment/src/mapreduce/wordcount/WordCount.java
+/home/mark/git/bdata/HadoopAssignment/src/mapreduce/keywords/KeywordReducer.java
+/home/mark/git/bdata/HadoopAssignment/src/mapreduce/amicable/AmicableReducer.java
